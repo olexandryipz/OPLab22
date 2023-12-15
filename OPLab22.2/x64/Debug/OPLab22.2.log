@@ -1,0 +1,4 @@
+﻿  OPLab22.2.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab22\OPLab22.2\OPLab22.2.cpp(7,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab22\OPLab22.2\OPLab22.2.cpp(105,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OPLab22.2.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab22\x64\Debug\OPLab22.2.exe
